@@ -1,6 +1,7 @@
 {
   "name": "northern",
   "version": "0.1.0",
+  "homepage": "https://yudhifadilah.github.io/northerndreamscape",
   "private": true,
   "scripts": {
     "dev": "next dev",
